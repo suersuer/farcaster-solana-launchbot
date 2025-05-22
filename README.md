@@ -1,0 +1,1 @@
+# farcaster-solana-launchbot
